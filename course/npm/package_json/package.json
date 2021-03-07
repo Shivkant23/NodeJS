@@ -1,0 +1,16 @@
+{
+  "name": "package_json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "mongoose": "^5.11.19",
+    "underscore": "^1.12.0"
+  },
+  "description": ""
+}
